@@ -43,7 +43,7 @@ A aplicação oferece endpoints completos com suporte a operações `GET`, `POST
 1. **Clone este repositório:**
 
    ```bash
-   git clone https://github.com/seu-usuario/MottuRestApi.git
+   git clone https://github.com/luvieirasantos/MottuRestApi-master.git
    ```
 
 2. **Configure a string de conexão no `appsettings.json`:**
